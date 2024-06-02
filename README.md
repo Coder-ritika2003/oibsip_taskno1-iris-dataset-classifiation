@@ -1,9 +1,11 @@
 This repository contains the code for training a machine learning model to classify Iris flowers based on their measurements. The Iris flower dataset consists of three species: Setosa, Versicolor, and Virginica, each having distinct measurement characteristics. The goal is to develop a model that can accurately classify Iris flowers based on their measurements.
 
-Dataset
+Dataset:
+
 The dataset used for this project is the famous Iris flower dataset, which is commonly used for classification tasks. It includes measurements of sepal length, sepal width, petal length, and petal width for 150 Iris flowers, with 50 samples for each species. The dataset is available in the repository as iris.csv.
 
-Dependencies
+Dependencies:
+
 The following Python libraries are used in this project:
 
 NumPy
